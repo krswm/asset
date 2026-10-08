@@ -1,0 +1,7 @@
+[package]
+name = "demo"
+edition = "2024"
+
+[dependencies]
+antiferro-pretty = { git = "https://github.com/krswm/antiferro-pretty.git" }
+tenferro-runtime = "0.7"
